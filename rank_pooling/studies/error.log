@@ -1,0 +1,923 @@
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensTraceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensTraceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensTraceTraceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceback Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceback Traceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceback (most recent call last):
+  File "valid_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='valid', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+back (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+back (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensTraceTraceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceTraceTraceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceTraceTraceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceback Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceback Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dTraceback Traceback (most recent call last):
+  File "train_rankpooling.py", line 28, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='train', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 251, in extract_rank_pooling_features_inter
+    data_left = np.hstack((data_left, product_left, distance_from_spine_left, wrist_distance_left))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+ions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensTraceTraceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
+Traceback (most recent call last):
+  File "val_rankpooling.py", line 27, in <module>
+    extract_rank_pooling_features_inter(main_folder, des_folder, list_index, category='val', velocity=True, approach='normal')
+  File "/s/chopin/k/grad/dkpatil/PycharmProjects/ChaLearn/dataset/Extraction.py", line 238, in extract_rank_pooling_features_inter
+    data_right = np.hstack((data_right, product_right, distance_from_spine_right, wrist_distance_right))
+  File "/usr/lib64/python2.7/site-packages/numpy/core/shape_base.py", line 280, in hstack
+    return _nx.concatenate(arrs, 1)
+ValueError: all the input arrays must have same number of dimensions
